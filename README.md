@@ -1,0 +1,2 @@
+# EzVPNpolicy
+Privacy Policy
